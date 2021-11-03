@@ -39,7 +39,7 @@ li{
     float:left;
     width:100%;
     height: 7.2in;
-
+    background-image: url('https://raw.githubusercontent.com/Salman100801/Salman100801.github.io/master/bgimg.jpg')
 }
 .block1{
     float:right;
@@ -56,7 +56,7 @@ li{
     text-align: center;
     padding-top: 6%;
     font-size: 140%;
-    
+    background-image: url('https://raw.githubusercontent.com/Salman100801/Salman100801.github.io/master/bgimg.jpg')
 }
 
 
